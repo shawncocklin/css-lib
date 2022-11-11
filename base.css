@@ -210,6 +210,32 @@
   --clr-deep-orange-a400: #FF3D00;
   --clr-deep-orange-a700: #DD2C00;
 
+  /* browns */
+  --clr-brown-50: #EFEBE9;
+  --clr-brown-100: #D7CCC8;
+  --clr-brown-200: #BCAAA4;
+  --clr-brown-300: #A1887F;
+  --clr-brown-400: #8D6E63;
+  --clr-brown-500: #795548;
+  --clr-brown-600: #6D4C41;
+  --clr-brown-700: #5D4037;
+  --clr-brown-800: #4E342E;
+  --clr-brown-900: #3E2723;
+  
+  /* neutrals */
+  --clr-neutral-white: #ffffff;
+  --clr-neutral-50: #FAFAFA;
+  --clr-neutral-100: #F5F5F5;
+  --clr-neutral-200: #EEEEEE;
+  --clr-neutral-300: #E0E0E0;
+  --clr-neutral-400: #BDBDBD;
+  --clr-neutral-500: #9E9E9E;
+  --clr-neutral-600: #757575;
+  --clr-neutral-700: #616161;
+  --clr-neutral-800: #424242;
+  --clr-neutral-900: #212121;
+  --clr-neutral-black: #000000;
+
 
 
 
